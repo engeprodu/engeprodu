@@ -52,4 +52,4 @@
   <!-- <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> -->
 
   
-  ![Snake animation](#)
+  ![Snake animation](https://github.com/matheuslincon/matheuslincon/blob/output/github-contribution-grid-snake.svg)
