@@ -52,6 +52,7 @@
   <!-- <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> -->
 
   
-  ![Snake animation](https://github.com/engeprodu/engeprodu/blob/output/1.svg)
+  ![Snake animation](https://github.com/engeprodu/engeprodu/blob/7f933659d8d8208c22b184ad92b554a5e64c3618/1.svg)
+
 
  
