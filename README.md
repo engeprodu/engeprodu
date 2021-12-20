@@ -5,14 +5,14 @@
 
 <div align="center">
   <p>Minha formação de base foi fortalecida em dois cursos técnicos e um superior (sou engenheiro de produção, técnico de obras e técnico de segurança do trabalho). Decidi migrar da área de construção civil para o mercado de tecnologia, porque me proporciona satisfação aprender e interagir com o ganho de resultados obtidos, quando o assunto é desenvolvimento de software.</p>
-<a href="#">
-<img src="#" alt="portfolio" />
+<a href="https://engeprodu.github.io/">
+<img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/thales-feres/">
-<img src="#" alt="linkedin" />
+<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:thales.feres@gmail.com">
-<img src="#" alt="gmail" />
+<img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 </div>
 
@@ -52,4 +52,4 @@
   <!-- <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> -->
 
   
-  ![Snake animation](https://github.com/matheuslincon/matheuslincon/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/engeprodu/engeprodu/blob/output/github-contribution-grid-snake.svg)
