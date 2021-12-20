@@ -1,3 +1,4 @@
+<base target="_blank">
 <img src="./background.png" alt="name banner" />
 
 ### About Me
