@@ -1,4 +1,4 @@
-<img src="./background.jpg" alt="name banner" />
+<img src="./background.png" alt="name banner" />
 
 ### About Me
 
