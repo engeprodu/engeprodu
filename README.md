@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <p>I am ambitious Software Developer who enjoys learning new skills and technologies.</p>
+  <p>Minha formação de base foi fortalecida em dois cursos técnicos e um superior (sou engenheiro de produção, técnico de obras e técnico de segurança do trabalho). Decidi migrar da área de construção civil para o mercado de tecnologia, porque me proporciona satisfação aprender e interagir com o ganho de resultados obtidos, quando o assunto é desenvolvimento de software.</p>
 <a href="#">
 <img src="#" alt="portfolio" />
 </a>
