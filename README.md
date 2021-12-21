@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <p>Minha formação de base foi fortalecida em dois cursos técnicos e um superior (sou engenheiro de produção, técnico de obras e técnico de segurança do trabalho). Decidi migrar da área de construção civil para o mercado de tecnologia, porque me proporciona satisfação aprender e interagir com o ganho de resultados obtidos, quando o assunto é desenvolvimento de software.</p>
+  <p>Minha formação de base foi fortalecida em dois cursos técnicos e um superior (sou engenheiro de produção, técnico de obras e técnico de segurança do trabalho). Decidi migrar de área, da construção civil para o mercado de tecnologia, porque me proporciona satisfação ao aprender e interagir quando o assunto é desenvolvimento de software.</p>
 <a href="https://engeprodu.github.io/">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
