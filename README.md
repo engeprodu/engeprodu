@@ -4,8 +4,8 @@
 
 <div align="center">
   <p>Minha formação de base foi fortalecida em dois cursos técnicos e um superior (técnico de edificações, técnico de segurança do trabalho e engenharia de produção). Decidi migrar de área, da construção civil para o mercado de tecnologia, porque me proporciona satisfação ao aprender e interagir quando o assunto é desenvolvimento de software.</p>
-<a href="https://engeprodu.github.io/">
-<img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" target="_blank" />
+<a href="https://engeprodu.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/thales-feres/">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
