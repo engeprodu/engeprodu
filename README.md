@@ -1,6 +1,6 @@
 <img src="./background.png" alt="name banner" />
 
-### About Me :mortar_board: :rocket: :coffee: :dart: :computer: :zap: :+1: :star: :octocat:
+### About Me :mortar_board: :rocket: :coffee: :dart: :zap: :+1::musical_score: :family: :books:
 
 <div align="center">
   <p>Minha formação de base foi fortalecida em dois cursos técnicos e um superior (técnico de edificações, técnico de segurança do trabalho e engenharia de produção). Decidi migrar de área, da construção civil para o mercado de tecnologia, porque me proporciona satisfação ao aprender e interagir quando o assunto é desenvolvimento de software.</p>
@@ -15,7 +15,7 @@
 </a>
 </div>
 
-### Github Stats
+### Github Stats :octocat: :star: 
 
 <div align="center">
   <a href="https://github.com/engeprodu">
@@ -23,7 +23,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engeprodu&layout=compact&langs_count=7&theme=aura"/>
 </div>
   
-### Languages, and Tools
+### Languages, and Tools :computer: :chart_with_upwards_trend: :stuck_out_tongue:
   
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
