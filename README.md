@@ -53,5 +53,3 @@
   
   ![Snake animation](https://github.com/engeprodu/engeprodu/blob/7f933659d8d8208c22b184ad92b554a5e64c3618/1.svg)
 
-
- # my_library
