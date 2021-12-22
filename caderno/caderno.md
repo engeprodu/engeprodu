@@ -1,5 +1,7 @@
 How can you retrieve a command you recently typed in your terminal? | Setup (Terminal and Git) | Aula 1
+
 How can you retrieve a command you recently typed in your terminal? | Setup (Terminal and Git) | Aula 1
+
 How can you tell if you have uncommitted changes in your project? | Setup (Terminal and Git) | Aula 1
 How do you commit your changes on git? | Setup (Terminal and Git) | Aula 1
 How do you create a file in current directory? | Setup (Terminal and Git) | Aula 1
