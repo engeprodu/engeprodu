@@ -1,7 +1,7 @@
 <img src="./background.png" alt="name banner" />
 
 ### About Me
-:mortar_board:
+:mortar_board: :rocket: :coffee: :dart: :computer: :zap: :+1: :star:
 
 <div align="center">
   <p>Minha formação de base foi fortalecida em dois cursos técnicos e um superior (técnico de edificações, técnico de segurança do trabalho e engenharia de produção). Decidi migrar de área, da construção civil para o mercado de tecnologia, porque me proporciona satisfação ao aprender e interagir quando o assunto é desenvolvimento de software.</p>
