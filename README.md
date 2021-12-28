@@ -34,7 +34,7 @@ puts "#{hello}, I'm #{engeprodu} - #{objective}"
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engeprodu&layout=compact&langs_count=7&theme=aura"/>
 </div>
   
-### Languages, and Tools :computer: :chart_with_upwards_trend: :stuck_out_tongue:
+### <p align="center">:computer: Languages, and Tools :stuck_out_tongue:</p>
   
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
