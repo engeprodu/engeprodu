@@ -7,7 +7,7 @@ engeprodu = "Thales Féres"
 objective= "Junior Ruby on Rails Developer"
 puts "#{hello}, I'm #{engeprodu} - #{objective}"
 ```
-### <span style="color:green">Hello Githubers</span>, I'm <span style="color:green">Thales Féres</span> - <span style="color:green">Junior Ruby on Rails Developer</span> 
+### Hello Githubers, I'm Thales Féres - Junior Ruby on Rails Developer 
 ---
 ---
 
