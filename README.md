@@ -1,5 +1,13 @@
 <img src="./background.png" alt="name banner" />
 
+```Ruby
+hello = "Hello Githubers"
+engeprodu = "Thales Féres"
+objective= "Junior Ruby on Rails Developer"
+puts "#{hello}, I'm #{engeprodu} - #{objective}"
+#=> Hello Githubers, I'm Thales Féres - Junior Ruby on Rails Developer 
+```
+
 ### About Me :mortar_board: :rocket: :coffee: :dart: :zap: :+1::musical_score: :family: :books:
 
 <div align="center">
