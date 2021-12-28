@@ -26,7 +26,7 @@ puts "#{hello}, I'm #{engeprodu} - #{objective}"
 </a>
 </div>
 
-### Github Stats :octocat: :star: 
+### <p align="center">:octocat: Github Stats :star:</p> 
 
 <div align="center">
   <a href="https://github.com/engeprodu">
